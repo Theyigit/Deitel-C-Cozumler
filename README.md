@@ -11,6 +11,6 @@ C ve C++ öğrenmek isteyenlerin başucu kaynağı olarak bilinen Deitel - C/C++
 
 Bu sayfadan bölüm sonundaki projelerin çözümlerine Türkçe olarak erişebilirsiniz. Sorularınız ve istekleriniz için [twitter hesabımdan](http://twitter.com/thisyigit) iletişime geçebilirsiniz.
 
-### KULLANIM
+### Kullanım
 
 Yukarıda bulunan listede ".c" uzantılı dosyalara tıkladığınızda ilgili bölümün koduna erişebilirsiniz. Örnek; Deitel_5.33 5. bölümün sonundaki 33. projeyi göstermektedir.
