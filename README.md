@@ -13,4 +13,4 @@ Bu sayfadan bölüm sonundaki projelerin çözümlerine Türkçe olarak erişebi
 
 ### Kullanım
 
-Yukarıda bulunan listede ".c" uzantılı dosyalara tıkladığınızda ilgili bölümün koduna erişebilirsiniz. Örnek; Deitel_5.33 5. bölümün sonundaki 33. projeyi göstermektedir.
+Yukarıda bulunan listede dosyalara tıkladığınızda ilgili bölümün koduna erişebilirsiniz. Örnek: Deitel_5.33 5. bölümün sonundaki 33. projeyi göstermektedir.
