@@ -9,7 +9,7 @@
 
 C ve C++ öğrenmek isteyenlerin başucu kaynağı olarak bilinen Deitel - C/C++ bölüm sonunda okuyucusundan  öğrenilen konuyu projeye dökmesini ister.
 
-Bu sayfadan bölüm sonundaki projelerin çözümlerine Türkçe olarak erişebilirsiniz. Sorularınız ve istekleriniz için [twitter hesabımdan](http://twitter.com/thisyigit) iletişime geçebilirsiniz.
+Bu sayfadan bölüm sonundaki projelerin çözümlerine Türkçe olarak erişebilirsiniz. Soru ve istekleriniz için [twitter hesabımdan](http://twitter.com/thisyigit) iletişime geçebilirsiniz.
 
 ### Kullanım
 
